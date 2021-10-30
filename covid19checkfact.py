@@ -16,7 +16,6 @@ def generation(r):
 	positiveIncr = []
 	totalTestResults = []
 	file1 = open('federal_covid19.csv', 'r')
-	# Identify nearest city for each lat, lng combination
 	file = csv.DictReader(file1)
 	for col in file:
 		#date.append(col['date'])
