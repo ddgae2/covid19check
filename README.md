@@ -9,4 +9,4 @@
 
 ##### File_output:
 
-#### >_As of March, 2020. COVIDtracking is collecting more sample data than the repository archival. when both negative COVID19 and positive COVID19 and hospital cases are increasing then something is going on?
+#### >_As of March, 2020. COVIDtracking is collecting more sample data than the repository archival. when both negative COVID19 results, positive COVID19 results and hospital cases are increasing then something is going on?
