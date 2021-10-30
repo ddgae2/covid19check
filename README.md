@@ -1,5 +1,5 @@
 # Covid19check
-##### This simple tool is to check for COVID19 national cases versus yet another source. 
+##### This simple tool to check for COVID19 national cases versus yet another source. 
 
 # How it works: 
 #### put https://covidtracking.com/data/download/national-history.csv into a file folder
