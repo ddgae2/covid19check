@@ -1,12 +1,11 @@
 # Covid19check
-##### This simple tool to check for COVID-19 national cases versus yet another source. 
+COVID-19 national cases to another source. 
 
-# How it works: 
-#### put https://covidtracking.com/data/download/national-history.csv into a file folder
-##### File_input then run:
+# Step 1: Download CSV data
+put https://covidtracking.com/data/download/national-history.csv into a file folder <br>
 
-### >_ python covid19track.py 
+# Step 2: Run results
+>_ python covid19track.py 
 
-##### File_output:
-
-#### >_ As of March 2020. COVID tracking is collecting more sample data than the repository archival. when both negative COVID-19 results, positive COVID-19 results, and hospital cases are increasing then something is going on?
+# Step 3: Analysis
+March 2020. Sample data contains more than repository archival. If negative COVID-19 results, positive COVID-19 results, or hospital cases are increasing. Is there something to think about?
