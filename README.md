@@ -2,7 +2,7 @@
 COVID-19 national cases to another source. 
 
 # Step 1: Download CSV data
-put https://covidtracking.com/data/download/national-history.csv into a file folder <br>
+put https://covidtracking.com/data/download/national-history.csv into file directory <br>
 
 # Step 2: Run results
 >_ python covid19track.py 
