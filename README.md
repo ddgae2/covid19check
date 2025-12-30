@@ -10,5 +10,5 @@ put https://covidtracking.com/data/download/national-history.csv into file direc
 # Step 3: Analysis
 In March 2020, the sample data contained more than just repository archival. If negative COVID-19 results, positive COVID-19 results, or hospital cases are increasing, should we be concerned?
 
-#Reference
+# Reference
 The Data Download (n.d.) The COVID Tracking Project. https://covidtracking.com/data/download/california-history.csv
