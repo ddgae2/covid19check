@@ -1,5 +1,5 @@
 # Covid19check
-COVID-19 national cases to another source. 
+COVID-19 national cases and another source. 
 
 # Step 1: Download CSV data
 put https://covidtracking.com/data/download/national-history.csv into file directory <br>
@@ -11,4 +11,4 @@ put https://covidtracking.com/data/download/national-history.csv into file direc
 In March 2020, the sample data contained more than just repository archival. If negative COVID-19 results, positive COVID-19 results, or hospital cases are increasing, should we be concerned?
 
 # Reference
-The Data Download (n.d.) The COVID Tracking Project. https://covidtracking.com/data/download/
+The Data download. (n.d.). The COVID Tracking Project. https://covidtracking.com/data/download/
