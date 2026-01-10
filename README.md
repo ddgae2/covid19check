@@ -1,8 +1,8 @@
 # Covid19check
-COVID-19 national cases and another source. 
+- COVID-19 national cases and another source. 
 
 # Step 1: Download CSV data
-put https://covidtracking.com/data/download/national-history.csv into file directory <br>
+- Define the file https://covidtracking.com/data/download/national-history.csv in a file directory <br>
 
 # Step 2: Run results
 >_ python covid19track.py 
