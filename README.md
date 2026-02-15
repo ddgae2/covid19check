@@ -8,7 +8,7 @@
 >_ python covid19track.py 
 
 # Step 3: Analysis
-In March 2020, the sample data contained more than just repository archival. If negative COVID-19 results, positive COVID-19 results, or hospital cases are increasing, should we be concerned?
+In March 2020, the sample data contained more than just repository archival. Nevertheless, negative COVID-19 results, positive COVID-19 results, and hospital cases were increasing. Should we be concerned?
 
 # Reference
 The Data download. (n.d.). The COVID Tracking Project. https://covidtracking.com/data/download/
