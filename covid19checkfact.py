@@ -4,7 +4,7 @@ import csv
 import requests
 import json
 import math 
-#author: David Gae © 2021 david gae Some right reserved
+#author: David Gae
 
 
 def generation(r):
