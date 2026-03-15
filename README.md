@@ -11,4 +11,4 @@
 In March 2020, the sample data contained more than just repository archival. These data were negative COVID-19 results, positive COVID-19 results, and hospital cases. Should we be concerned?
 
 # Reference
-The Data download. (n.d.). The COVID Tracking Project. https://covidtracking.com/data/download/
+The Data download. (n.d.). *The COVID Tracking Project.* https://covidtracking.com/data/download/
